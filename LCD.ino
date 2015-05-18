@@ -1,7 +1,7 @@
 // Codigo para usar un LCD 16x2 con Arduino
 // David Ortega Cuadrado - dorcu.com
 // 27 de Abril de 2014
-// hola@dorcu.com
+// dorcu.com
  
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
